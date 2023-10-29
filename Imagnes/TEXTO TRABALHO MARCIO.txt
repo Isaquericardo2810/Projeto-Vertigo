@@ -1,0 +1,5 @@
+git remote add origin https://github.com/Isaquericardo2810/Projeto-Vertigo.git
+git branch -M main
+git push -u origin main
+
+https://www.youtube.com/watch?v=xm4dA3RFHmg&list=PLTDmdzvSGGA-ZSt9WXMFdaZHiKKCT-wpZ&index=1
